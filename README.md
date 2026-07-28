@@ -108,28 +108,6 @@ The dashboard includes the following KPIs:
 
 ---
 
-## 📷 Dashboard Preview
-
-### Executive Sales Overview
-
-> *(Add your dashboard screenshot here)*
-
-Example:
-
-```
-images/dashboard_page1.png
-```
-
-### Customer & Product Insights
-
-> *(Add your second dashboard screenshot here)*
-
-```
-images/dashboard_page2.png
-```
-
----
-
 ## 📈 Key Business Insights
 
 ### Revenue Performance
