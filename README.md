@@ -71,7 +71,7 @@ The dashboard includes the following KPIs:
 
 ### Complete Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## 📊 Dashboard Features
 
