@@ -67,6 +67,11 @@ The dashboard includes the following KPIs:
 - 📝 Total Reviews
 
 ---
+## Dashboard Overview
+
+### Complete Dashboard
+
+![Dashboard](images/dashboard.png)
 
 ## 📊 Dashboard Features
 
